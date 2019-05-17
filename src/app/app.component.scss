@@ -1,0 +1,47 @@
+
+.container{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #555;
+    padding: 16px;
+}
+
+.logo{
+    width: 250px;
+}
+
+.inputWrapper{
+    margin: 16px;
+    padding: 4px 10px;
+    display: inline-block;
+    border: solid 1px #555;
+    border-radius: 5px; 
+}
+
+.inputWrapper input{
+    width: 200px;
+    height: 30px;
+    border: none;
+    background-color: transparent;
+}
+.inputWrapper input:focus{
+    outline: none;
+}
+
+.errorMessage{
+    margin: 16px;
+    color: red;
+}
+
+.rupiahFraction{
+    width: 250px;
+    margin: 16px auto 0px;
+}
+
+.fraction{
+    float: left;
+}
+
+.qty{
+    float: right;
+}
