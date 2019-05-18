@@ -4,6 +4,10 @@
 
 Ferdianto - anto.bolt7@yahoo.com
 
+## Live Demo
+
+Visit the live demo at https://rupiah-fractions.herokuapp.com/
+
 ## Prerequisite
 
 1. Node Version 8.9.4 (recommended)
